@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    top: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.container, .container-fluid, .row {
+    height: 100%;
+}
+
+.col-6 {
+    height: 100%;
+}
+
+body.bg-personalizado {
+    background: #f0f5f5;
+}
